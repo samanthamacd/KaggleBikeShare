@@ -21,10 +21,12 @@ casual_plot <- casual_plot <- ggplot(data = bike, aes(x=temp, y=casual)) +
   geom_point() + 
   geom_smooth()   
 
-season_plot <- ggplot(data=bike, aes(x=as.factor(season), y=count)) + geom_boxplot(fill="violet"
+season_plot <- ggplot(data=bike, aes(x=as.factor(season), y=count)) + geom_boxplot(fill="violet")
 
 
 plots <- (variable_plot + correlation_plot) / (casual_plot + casual_plot) 
+
+
 
 
 
