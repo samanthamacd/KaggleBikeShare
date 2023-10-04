@@ -14,4 +14,10 @@
 #       - the 'explanatory variables' in the meta learner are the preds from each base 
 #       - base learners should capture different parts of the data 
 #   - you can stack existing models, or you can throw variations on 'untuned' models 
-#   - 
+#   
+
+
+
+# 4 October - Model wrap-up 
+# we have to submit our 'final' Kaggle submission: 
+#  - anything below a .44 score will get full credit - almost there! 
