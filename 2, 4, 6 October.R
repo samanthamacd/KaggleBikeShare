@@ -21,3 +21,7 @@
 # 4 October - Model wrap-up 
 # we have to submit our 'final' Kaggle submission: 
 #  - anything below a .44 score will get full credit - almost there! 
+
+
+# 6 October - Wrangling Categorical Data 
+#  - encoding for categorical data 
